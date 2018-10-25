@@ -1,8 +1,8 @@
 # micronaut-fixture-repro
 Reproduction of a bug with Spock's fixtures methods and Micronaut Test annotation
 
-# Requirements
+## Requirements
 * JDK 8
 
-# Run
+## Run
 `./gradlew test --info`
